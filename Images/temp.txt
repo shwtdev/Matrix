@@ -1,1 +1,0 @@
-let blizzardImage = new Image();
